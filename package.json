@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "elliptic": "^6.6.1",
+    "vorpal": "^1.12.0"
+  }
+}
